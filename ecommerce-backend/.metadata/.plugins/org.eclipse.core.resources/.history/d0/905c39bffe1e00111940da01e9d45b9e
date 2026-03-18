@@ -1,0 +1,5 @@
+package com.anil.ecommerce.repository;
+
+public interface ProductRepository {
+
+}

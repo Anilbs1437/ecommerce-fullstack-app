@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+package com.anil.ecommerce.entity;
+
+/**
+ * 
+ */
+public class User {
+
+}
